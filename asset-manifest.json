@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.a617e044.chunk.css",
-    "main.js": "/test/static/js/main.5760c538.chunk.js",
-    "main.js.map": "/test/static/js/main.5760c538.chunk.js.map",
-    "runtime-main.js": "/test/static/js/runtime-main.18f09c7b.js",
-    "runtime-main.js.map": "/test/static/js/runtime-main.18f09c7b.js.map",
-    "static/js/2.73d8844c.chunk.js": "/test/static/js/2.73d8844c.chunk.js",
-    "static/js/2.73d8844c.chunk.js.map": "/test/static/js/2.73d8844c.chunk.js.map",
-    "static/js/3.b03b7a7c.chunk.js": "/test/static/js/3.b03b7a7c.chunk.js",
-    "static/js/3.b03b7a7c.chunk.js.map": "/test/static/js/3.b03b7a7c.chunk.js.map",
+    "main.css": "/test/static/css/main.b59794de.chunk.css",
+    "main.js": "/test/static/js/main.35996320.chunk.js",
+    "main.js.map": "/test/static/js/main.35996320.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.4103bb0f.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.4103bb0f.js.map",
+    "static/css/2.e2259be7.chunk.css": "/test/static/css/2.e2259be7.chunk.css",
+    "static/js/2.d7ee14b5.chunk.js": "/test/static/js/2.d7ee14b5.chunk.js",
+    "static/js/2.d7ee14b5.chunk.js.map": "/test/static/js/2.d7ee14b5.chunk.js.map",
+    "static/js/3.f5200a14.chunk.js": "/test/static/js/3.f5200a14.chunk.js",
+    "static/js/3.f5200a14.chunk.js.map": "/test/static/js/3.f5200a14.chunk.js.map",
     "index.html": "/test/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/test/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.73d8844c.chunk.js.LICENSE.txt": "/test/static/js/2.73d8844c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/test/static/media/logo.6ce24c58.svg"
+    "static/css/2.e2259be7.chunk.css.map": "/test/static/css/2.e2259be7.chunk.css.map",
+    "static/css/main.b59794de.chunk.css.map": "/test/static/css/main.b59794de.chunk.css.map",
+    "static/js/2.d7ee14b5.chunk.js.LICENSE.txt": "/test/static/js/2.d7ee14b5.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/test/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/logo.8a416310.png": "/test/static/media/logo.8a416310.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.18f09c7b.js",
-    "static/js/2.73d8844c.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.5760c538.chunk.js"
+    "static/js/runtime-main.4103bb0f.js",
+    "static/css/2.e2259be7.chunk.css",
+    "static/js/2.d7ee14b5.chunk.js",
+    "static/css/main.b59794de.chunk.css",
+    "static/js/main.35996320.chunk.js"
   ]
 }
