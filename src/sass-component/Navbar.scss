@@ -1,0 +1,41 @@
+#ms_navbar {
+    background-color: transparent;
+    a {
+        color: white;
+        img {
+            width: 100px;
+        }
+        &:hover {
+            color: #00EEEB;
+        }
+    }
+
+    #navbar-m-query {
+        flex-direction: column;
+    }
+
+    ul li {
+        list-style: none;
+        text-align: center;
+    }
+    
+    .icon {
+        padding: 10px;
+        font-size: 30px;
+        color: white;
+        &:hover {
+            color: #00EEEB;
+        }
+    }
+
+}
+@media screen and (max-width: 991.98px) {
+    #ms_navbar {
+        position: fixed;
+        z-index: 1;
+        background-color: #0400E6;
+        #navbar-m-query {
+            flex-direction: row;
+        }
+    }
+}

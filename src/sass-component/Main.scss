@@ -1,0 +1,100 @@
+#ms_main {
+    background-color: #0400E6;
+    color: white;
+    #icon-profile {
+        position: fixed;
+        right: 10px;
+        top: 20px;
+        ul li {
+            list-style: none;
+            text-align: center;
+        }
+        .icon-profile {
+            padding: 10px;
+            font-size: 30px;
+            color: white;
+            &:hover {
+                color: #00EEEB;
+            }
+        }
+    }
+
+    .ms_box {
+        height: calc(100vh + 110px);
+    }
+
+    #About-me,
+    #Certifications {
+        font-size: 27px;
+        text-align: center;
+    
+        h2 {
+            padding-bottom: 50px;
+            color: #00EEEB;
+        }
+    
+        a {
+            color: #00EEEB;
+        }
+
+        img {
+            box-shadow: 0px 2px 10px 2px grey;
+        }
+        
+        #description {
+            padding: 30px;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            color: #0400E6;
+            box-shadow: 0px 2px 10px 2px grey;
+            background-color: rgb(232, 231, 231);
+            a {
+                text-decoration: none;
+            }
+        }
+    }
+
+    #Tecnologies {
+        ul li {
+            list-style: none;
+        }
+
+        .icon {
+            text-align: center;
+            padding: 10px;
+            font-size: 50px;
+            color: #00EEEB;
+        }
+    }
+
+    #Certifications {
+        img {
+            width: 350px;
+        }
+    }
+
+    @media screen and (max-width: 991.98px) {
+        #description {
+            font-size: 10px;
+        }
+
+        #Tecnologies {
+            ul li {
+                width: calc(100% / 4 - 10px);
+                display: flex;
+                justify-content: center;
+            }
+
+            .icon {
+                font-size: 40px;
+            }
+        }
+
+        #Certifications {
+            img {
+                width: 250px;
+            }
+        }
+        
+    }
+}
