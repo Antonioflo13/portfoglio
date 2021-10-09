@@ -43,7 +43,7 @@ function ControlledCarousel() {
           />
           <p>{project.description}</p>
           <button className="btn btn-sm"><a href={project.gitHubRepo} target="_blank" rel="noreferrer"><i className="fab fa-github icon"></i> Repository</a></button>
-          <button className={project.siteLink == "" ? 'none' : 'btn btn-sm'} ><a href={project.siteLink} target="_blank" rel="noreferrer"><i className="fas fa-link"></i> Link</a></button>
+          <button className={project.siteLink === "" ? 'none' : 'btn btn-sm'} ><a href={project.siteLink} target="_blank" rel="noreferrer"><i className="fas fa-link"></i> Link</a></button>
         </Carousel.Item>
          ))}
       </Carousel>

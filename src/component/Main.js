@@ -1,7 +1,5 @@
 import React from 'react';
 
-import Boolzap from "../img/Boolzap.png";
-
 import ControlledCarousel from './ControlledCarousel.js';
 
 function Main () {
