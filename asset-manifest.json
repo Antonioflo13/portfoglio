@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.5e8c65c3.chunk.css",
-    "main.js": "/test/static/js/main.9c66b85f.chunk.js",
-    "main.js.map": "/test/static/js/main.9c66b85f.chunk.js.map",
-    "runtime-main.js": "/test/static/js/runtime-main.4103bb0f.js",
-    "runtime-main.js.map": "/test/static/js/runtime-main.4103bb0f.js.map",
+    "main.css": "/test/static/css/main.2026ec78.chunk.css",
+    "main.js": "/test/static/js/main.d9158fbb.chunk.js",
+    "main.js.map": "/test/static/js/main.d9158fbb.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.7237cbcd.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.7237cbcd.js.map",
     "static/css/2.e2259be7.chunk.css": "/test/static/css/2.e2259be7.chunk.css",
-    "static/js/2.d7ee14b5.chunk.js": "/test/static/js/2.d7ee14b5.chunk.js",
-    "static/js/2.d7ee14b5.chunk.js.map": "/test/static/js/2.d7ee14b5.chunk.js.map",
-    "static/js/3.f5200a14.chunk.js": "/test/static/js/3.f5200a14.chunk.js",
-    "static/js/3.f5200a14.chunk.js.map": "/test/static/js/3.f5200a14.chunk.js.map",
+    "static/js/2.7ae29030.chunk.js": "/test/static/js/2.7ae29030.chunk.js",
+    "static/js/2.7ae29030.chunk.js.map": "/test/static/js/2.7ae29030.chunk.js.map",
+    "static/js/3.97f6a2ff.chunk.js": "/test/static/js/3.97f6a2ff.chunk.js",
+    "static/js/3.97f6a2ff.chunk.js.map": "/test/static/js/3.97f6a2ff.chunk.js.map",
     "index.html": "/test/index.html",
     "static/css/2.e2259be7.chunk.css.map": "/test/static/css/2.e2259be7.chunk.css.map",
-    "static/css/main.5e8c65c3.chunk.css.map": "/test/static/css/main.5e8c65c3.chunk.css.map",
-    "static/js/2.d7ee14b5.chunk.js.LICENSE.txt": "/test/static/js/2.d7ee14b5.chunk.js.LICENSE.txt",
+    "static/css/main.2026ec78.chunk.css.map": "/test/static/css/main.2026ec78.chunk.css.map",
+    "static/js/2.7ae29030.chunk.js.LICENSE.txt": "/test/static/js/2.7ae29030.chunk.js.LICENSE.txt",
+    "static/media/BoolBnB.39d8506d.png": "/test/static/media/BoolBnB.39d8506d.png",
+    "static/media/Boolflix.c423c87c.png": "/test/static/media/Boolflix.c423c87c.png",
     "static/media/Boolzap.73507f84.png": "/test/static/media/Boolzap.73507f84.png",
     "static/media/App.scss": "/test/static/media/fa-solid-900.eeccf4f6.woff",
     "static/media/logo.8a416310.png": "/test/static/media/logo.8a416310.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4103bb0f.js",
+    "static/js/runtime-main.7237cbcd.js",
     "static/css/2.e2259be7.chunk.css",
-    "static/js/2.d7ee14b5.chunk.js",
-    "static/css/main.5e8c65c3.chunk.css",
-    "static/js/main.9c66b85f.chunk.js"
+    "static/js/2.7ae29030.chunk.js",
+    "static/css/main.2026ec78.chunk.css",
+    "static/js/main.d9158fbb.chunk.js"
   ]
 }
