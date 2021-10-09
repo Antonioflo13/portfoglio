@@ -1,7 +1,6 @@
 import logo from '../logo.png';
 
 function Navbar(props) {
-  console.log(props.links);
   return (
 
   <nav id="ms_navbar" className="navbar navbar-expand-lg navbar-dark position-fixed w-100">

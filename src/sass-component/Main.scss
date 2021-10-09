@@ -1,6 +1,7 @@
 #ms_main {
     background-color: #0400E6;
     color: white;
+    
     #icon-profile {
         position: fixed;
         z-index: 2;
@@ -67,30 +68,8 @@
     }
 
     #Projects {
-        img {
-            width: 500px;
-        }
-
-        .ms_card {
-            h3 {
-                color: #00EEEB;
-            }
-
-            * {
-                margin: 10px;
-            }
-
-            p {
-                font-size: 16px;
-            }
-
-            button {
-                background-color: white;
-                a {
-                    color: #0400E6;
-                    text-decoration: none;
-                }
-            }
+        h3 {
+            color: #00EEEB;
         }
     }
 

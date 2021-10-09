@@ -1,6 +1,10 @@
+import React from 'react';
+
 import Boolzap from "../img/Boolzap.png";
 
-function Main (props) {
+import ControlledCarousel from './ControlledCarousel.js';
+
+function Main () {
     return (
        <section id="ms_main">
            <div id="icon-profile" className="d-flex align-self-end justify-content-end">
@@ -75,14 +79,10 @@ function Main (props) {
                 </div>
             </article>
             <article className="container">
-                <div id="Projects" className="d-flex flex-column align-items-center justify-content-center ms_box">
-                    <h2 data-aos="fade-up">Projects</h2>
-                    <div className="ms_card  d-flex flex-column align-items-center justify-content-center">
-                        <h3>Boolzap</h3>
-                        <img src={Boolzap} alt="Boolzap" />
-                        <p className="w-75">Web app realizzata con HTML, CSS e Vue.js. Simulazione di invio di messaggi con risposta automatica, ricerca dei contatti dinamica, cancellazione messaggi, gestione dark mode.</p>
-                        <button className="btn-sm"><a href="https://github.com/Antonioflo13/vue-boolzapp.git" target="_blank" rel="noreferrer"><i className="fab fa-github icon"></i> Repository</a></button>
-                        <button className="btn btn-sm"><a href="https://vue-boolzap.netlify.app/" target="_blank" rel="noreferrer"><i class="fas fa-link"></i> Link</a></button>
+                <div id="Projects" className="d-flex flex-column justify-content-center align-items-center ms_box" data-aos="fade-up">
+                    <h2>Projects</h2>
+                    <div >
+                        <ControlledCarousel/>
                     </div>
                 </div>
             </article>

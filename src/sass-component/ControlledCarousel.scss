@@ -1,0 +1,48 @@
+#ControlledCarousel {
+    img {
+        width: 500px;
+    }
+
+    h3 {
+        color: #00EEEB;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    button {
+        background-color: white;
+        a {
+            color: #0400E6;
+            text-decoration: none;
+        }
+    }
+
+    .none {
+        display: none;
+    }
+
+    #carouselItem {
+        * {
+            margin: 10px;
+        }
+    }
+
+    .carousel-indicators {
+        display: none;
+    }
+
+    @media screen and (max-width: 767.98px) {
+        .carousel-control-next-icon,
+        .carousel-control-prev-icon {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 991.98px) {
+        p {
+            font-size: 14px;
+        }
+    }
+}
