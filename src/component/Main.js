@@ -38,40 +38,40 @@ function Main () {
             <div id="Tecnologies" className="d-flex justify-content-center align-items-center">
                     <ul className="list-inline ms_box d-flex flex-wrap align-content-center">
                         <li className="list-inline-item"  data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-html5 icon"></i></a>
+                            <i className="fab fa-html5 icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-css3-alt icon"></i></a>
+                            <i className="fab fa-css3-alt icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-sass icon"></i></a>
+                            <i className="fab fa-sass icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-bootstrap icon"></i></a>
+                            <i className="fab fa-bootstrap icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-js-square icon"></i></a
-                        ></li>
-                        <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-vuejs icon"></i></a>
+                            <i className="fab fa-js-square icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-react icon"></i></a>
+                            <i className="fab fa-vuejs icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-github icon"></i></a>
+                            <i className="fab fa-react icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-php icon"></i></a>
+                            <i className="fab fa-github icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-laravel icon"></i></a>
+                            <i className="fab fa-php icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-npm icon"></i></a>
+                            <i className="fab fa-laravel icon"></i>
                         </li>
                         <li className="list-inline-item" data-aos="zoom-in">
-                            <a href="#"><i className="fab fa-node-js icon"></i></a>
+                            <i className="fab fa-npm icon"></i>
+                        </li>
+                        <li className="list-inline-item" data-aos="zoom-in">
+                            <i className="fab fa-node-js icon"></i>
                         </li>
                     </ul>
                 </div>
