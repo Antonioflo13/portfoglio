@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.2026ec78.chunk.css",
-    "main.js": "/test/static/js/main.d9158fbb.chunk.js",
-    "main.js.map": "/test/static/js/main.d9158fbb.chunk.js.map",
-    "runtime-main.js": "/test/static/js/runtime-main.7237cbcd.js",
-    "runtime-main.js.map": "/test/static/js/runtime-main.7237cbcd.js.map",
-    "static/css/2.e2259be7.chunk.css": "/test/static/css/2.e2259be7.chunk.css",
-    "static/js/2.7ae29030.chunk.js": "/test/static/js/2.7ae29030.chunk.js",
-    "static/js/2.7ae29030.chunk.js.map": "/test/static/js/2.7ae29030.chunk.js.map",
-    "static/js/3.97f6a2ff.chunk.js": "/test/static/js/3.97f6a2ff.chunk.js",
-    "static/js/3.97f6a2ff.chunk.js.map": "/test/static/js/3.97f6a2ff.chunk.js.map",
-    "index.html": "/test/index.html",
-    "static/css/2.e2259be7.chunk.css.map": "/test/static/css/2.e2259be7.chunk.css.map",
-    "static/css/main.2026ec78.chunk.css.map": "/test/static/css/main.2026ec78.chunk.css.map",
-    "static/js/2.7ae29030.chunk.js.LICENSE.txt": "/test/static/js/2.7ae29030.chunk.js.LICENSE.txt",
-    "static/media/BoolBnB.39d8506d.png": "/test/static/media/BoolBnB.39d8506d.png",
-    "static/media/Boolflix.c423c87c.png": "/test/static/media/Boolflix.c423c87c.png",
-    "static/media/Boolzap.73507f84.png": "/test/static/media/Boolzap.73507f84.png",
-    "static/media/App.scss": "/test/static/media/fa-solid-900.eeccf4f6.woff",
-    "static/media/logo.8a416310.png": "/test/static/media/logo.8a416310.png"
+    "main.css": "/portfoglio/static/css/main.2a29f146.chunk.css",
+    "main.js": "/portfoglio/static/js/main.9fbc8cac.chunk.js",
+    "main.js.map": "/portfoglio/static/js/main.9fbc8cac.chunk.js.map",
+    "runtime-main.js": "/portfoglio/static/js/runtime-main.021b9d1b.js",
+    "runtime-main.js.map": "/portfoglio/static/js/runtime-main.021b9d1b.js.map",
+    "static/css/2.7c4cbcf0.chunk.css": "/portfoglio/static/css/2.7c4cbcf0.chunk.css",
+    "static/js/2.7ae29030.chunk.js": "/portfoglio/static/js/2.7ae29030.chunk.js",
+    "static/js/2.7ae29030.chunk.js.map": "/portfoglio/static/js/2.7ae29030.chunk.js.map",
+    "static/js/3.97f6a2ff.chunk.js": "/portfoglio/static/js/3.97f6a2ff.chunk.js",
+    "static/js/3.97f6a2ff.chunk.js.map": "/portfoglio/static/js/3.97f6a2ff.chunk.js.map",
+    "index.html": "/portfoglio/index.html",
+    "static/css/2.7c4cbcf0.chunk.css.map": "/portfoglio/static/css/2.7c4cbcf0.chunk.css.map",
+    "static/css/main.2a29f146.chunk.css.map": "/portfoglio/static/css/main.2a29f146.chunk.css.map",
+    "static/js/2.7ae29030.chunk.js.LICENSE.txt": "/portfoglio/static/js/2.7ae29030.chunk.js.LICENSE.txt",
+    "static/media/BoolBnB.39d8506d.png": "/portfoglio/static/media/BoolBnB.39d8506d.png",
+    "static/media/Boolflix.c423c87c.png": "/portfoglio/static/media/Boolflix.c423c87c.png",
+    "static/media/Boolzap.73507f84.png": "/portfoglio/static/media/Boolzap.73507f84.png",
+    "static/media/App.scss": "/portfoglio/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/logo.8a416310.png": "/portfoglio/static/media/logo.8a416310.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7237cbcd.js",
-    "static/css/2.e2259be7.chunk.css",
+    "static/js/runtime-main.021b9d1b.js",
+    "static/css/2.7c4cbcf0.chunk.css",
     "static/js/2.7ae29030.chunk.js",
-    "static/css/main.2026ec78.chunk.css",
-    "static/js/main.d9158fbb.chunk.js"
+    "static/css/main.2a29f146.chunk.css",
+    "static/js/main.9fbc8cac.chunk.js"
   ]
 }
